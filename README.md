@@ -23,3 +23,10 @@ Key milestones include building a “pretotype” for the purpose of understandi
 Students complete Startup Projects as co-founders with contacts that include experts, designers, VCs, and lawyers. As a result, students expand their career opportunities to include a direct path to entrepreneurship&mdash;either by continuing to build their startup or by replicating the actions performed during the semester toward a new venture.
 
 Cornell Tech and other organizations also benefit from Startup Projects. The student teams’ exploratory and entrepreneurial actions concentrated in a single market theme contributes to public knowledge about what is required to pursue a startup in that market and accelerate startup creation. Additionally, the design of Startup Projects provides Cornell Tech with a predictable way to keep the campus connected to cutting edge trends and technology.
+
+## More Information
+
+More information on Startup Projects can be found on the Startup Projects wiki:
+
+* [Meetings](https://github.com/cornelltech/startup-projects/wiki/Meetings)
+* [Milestones](https://github.com/cornelltech/startup-projects/wiki/Milestones)
