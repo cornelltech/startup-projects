@@ -28,5 +28,6 @@ Cornell Tech and other organizations also benefit from Startup Projects. The stu
 
 More information on Startup Projects can be found on the Startup Projects wiki:
 
+* [Building Relaltionships](https://github.com/cornelltech/startup-projects/wiki/Building-Relationships)
 * [Meetings](https://github.com/cornelltech/startup-projects/wiki/Meetings)
 * [Milestones](https://github.com/cornelltech/startup-projects/wiki/Milestones)
