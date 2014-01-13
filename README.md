@@ -10,7 +10,7 @@ The first phase is dedicated to empowering students to view the world through an
 
 ## Phase 2: Teaming
 
-Through group discussions, students learn about each other’s shared passions and complementary skillsets, and organize themselves into teams to address opportunities in the selected product focus areas. Cornell Tech connects those teams to experts, customers, and organizations related to the theme. While we encourage teams to pursue opportunities in the selected theme and thesis, teams that are particularly passionate products for other reasons can choose to pursue those opportunities.
+Through group discussions, students learn about each other’s shared passions and complementary skillsets, and organize themselves into teams to address opportunities in the selected product focus areas. Cornell Tech connects those teams to experts, customers, and organizations related to the theme. While we encourage teams to pursue opportunities in the selected theme and thesis, teams that are particularly passionate products for other reasons can choose to pursue those opportunities. Each team is also assigned a coach. The coach is resposnible for helping the teams establish order, accountability, and a culture of constructive feedback.
 
 ## Phase 3: Building
 
