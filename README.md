@@ -1,4 +1,5 @@
 # Startup Projects
-Click [here](http://tech.cornell.edu/experience/startup-projects/) for a general overview of Startup Projects
 
-Review the [Startup Projects wiki](https://github.com/cornelltech/startup-projects/wiki)for a detailed overview of the exepectations and deliverables.
+Read an [overview of Startup Projects](http://tech.cornell.edu/experience/startup-projects/) on the Cornell Tech website.
+
+Refer to the [Startup Projects wiki](https://github.com/cornelltech/startup-projects/wiki) for the schedule of meetings, information on grading and project milestones, and supplemental materials.
